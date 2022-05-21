@@ -5,8 +5,6 @@
 
 - 📚Não tenho experiência profissional, mas estou aprimorando meus conhecimentos e realizando projetos.
 
-- 🔗Se liga no meu Linkedin: https://www.linkedin.com/in/matheus-souza-marques-69038522a/
-
 - 👍 Da uma olhada no meu último portfólio, onde criei um App para Restaurantes com NodeJS, MongoDB, JavaScript e mais.
 
 - 🗺Atualmente, resido em Vitória, Espírito Santo!
@@ -26,3 +24,5 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=teuz159">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuz159">
+
+<a href="https://www.linkedin.com/in/matheus-souza-marques-69038522a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
