@@ -1,4 +1,4 @@
-<h1>Eai! Eu sou o Matheus Souza</h1>
+<h1>Eai! Como vai?</h1>
 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 
 - 💥Desenvolvedor Full Stack jr
@@ -21,3 +21,8 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB">
 <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="SEQUELIZE">
 <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JSONWEBTOKENS">
+<br>
+<h2>📊 GitHub Analytics</h2>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=teuz159">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuz159">
