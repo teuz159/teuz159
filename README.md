@@ -5,7 +5,7 @@
 
 - 📚Não tenho experiência profissional, mas estou aprimorando meus conhecimentos e realizando projetos.
 
-- 👍 Da uma olhada no meu último portfólio, onde criei um App para Restaurantes com NodeJS, MongoDB, JavaScript e mais.
+- 👍 Da uma olhada no meu último portfólio, onde criei um App para Restaurantes com NodeJS, ExpressJs, MongoDB, Mongoose, JavaScript e mais.
 
 - 🗺Atualmente, resido em Vitória, Espírito Santo!
 <br><br>
