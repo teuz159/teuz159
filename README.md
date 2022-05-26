@@ -3,6 +3,8 @@
 
 - 💥Desenvolvedor Full Stack jr
 
+- 🚀Atualmente, participando do Becas Santander Bootcamp 2022
+
 - 📚Não tenho experiência profissional, mas estou aprimorando meus conhecimentos e realizando projetos.
 
 - 👍 Da uma olhada no meu último portfólio, onde criei um App para Restaurantes com NodeJS, ExpressJs, MongoDB, Mongoose, JavaScript e mais.
