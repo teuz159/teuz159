@@ -1,9 +1,9 @@
 <h1>Eai! Como vai?</h1>
 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 
-- 💥Desenvolvedor Full Stack jr
+- 💥Desenvolvedor Back End jr
 
-- 📚Não tenho experiência profissional, mas estou aprimorando meus conhecimentos e realizando projetos.
+- 👩‍💻Desenvolvedor Back End na Devio
 
 - 👍 Da uma olhada no meu último projeto, onde criei um App similar ao Evernote.
 
