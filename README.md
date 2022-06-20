@@ -1,9 +1,7 @@
 <h1>Eai! Como vai?</h1>
 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 
-- 💥Desenvolvedor Back End jr
-
-- 👩‍💻Desenvolvedor Back End na Devio
+- 👩‍💻Desenvolvedor Back End Jr na Devio
 
 - 👍 Da uma olhada no meu último projeto, onde criei um App similar ao Evernote.
 
