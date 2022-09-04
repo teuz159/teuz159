@@ -1,11 +1,10 @@
 <h1>Eai! Como vai?</h1>
 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 
-- 👩‍💻Desenvolvedor Back End Jr na Devio
-
-- 👍 Da uma olhada no meu último projeto, onde criei um App similar ao Evernote.
+- 👩‍💻Desenvolvedor BackEnd Jr na Devio
 
 - 🗺Atualmente, resido em Vitória, Espírito Santo!
+
 <br><br>
 ## 👩‍💻 &nbsp;Tecnologias que eu tenho conhecimento
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JAVASCRIPT">
